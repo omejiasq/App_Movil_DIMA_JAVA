@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">IntelliBreath</string>
+
+    <string name="test_title">Título de prueba</string>
+    <string name="test_subtitle">Subtítulo de prueba</string>
+    <string name="test_battery_percentage">100%</string>
+    <string name="test_speed">73</string>
+    <string name="test_wreck">Colisión</string>
+    <string name="test_date">10/07/23</string>
+    <string name="test_breathalyzer">128</string>
+
+    <string name="fragment_over_speed">Acá se mostrarán los excesos de velocidad</string>
+    <string name="fragment_breathalyzer">Acá se mostrará los niveles de alcoholemia</string>
+    <string name="fragment_wrecks">Acá se mostrarán los accidentes detectados</string>
+    <string name="fragment_settings">Acá se mostrarán las configuraciones</string>
+
+
+    <string name="battery_headset">Batería diadema</string>
+
+    <string name="breathalyzer">Alcohol</string>
+    <string name="breathalyzer_unit">mg/100ml</string>
+
+    <string name="connecting">Conectando</string>
+    <string name="cancelling">Cancelando</string>
+    <string name="create_account">Crear cuenta</string>
+
+    <string name="disconnect">Desconectar</string>
+
+    <string name="email">Correo electrónico</string>
+    <string name="email_confirm">Confirme correo electrónico</string>
+
+    <string name="home">Principal</string>
+    <string name="headset">Diadema</string>
+    <string name="hidden_name">Nombre oculto</string>
+    <string name="hidden_address">Dirección oculta</string>
+
+    <string name="log_in">Inicio sesión</string>
+    <string name="login_in">Iniciando Sesión</string>
+    <string name="loading">Loading</string>
+
+    <string name="over_speed">Velocidad</string>
+
+
+    <string name="processing">Procesando</string>
+    <string name="password">Contraseña</string>
+    <string name="password_confirm">Confirme contraseña</string>
+    <string name="percentage">%</string>
+
+    <string name="recover_password">Recuperar contraseña</string>
+
+    <string name="saving">Guardando</string>
+    <string name="settings">Config</string>
+    <string name="search">Buscar</string>
+    <string name="speed_unit">KM/H</string>
+    <string name="search_ble_devices">Dispositívos bluetooth encontrados</string>
+
+    <string name="wrecks">Accidentes</string>
+    <string name="welcome">Bienvenido</string>
+
+    <string name="message_function_disabled">Esta función se encuentra desactivada</string>
+    <string name="message_error_starting_connection_ble">Error de conexión con dispositivo seleccionado</string>
+
+    <string name="content_description_button_search_ble">Botón que permite encontrar dispositivos bluetooth cercanos</string>
+</resources>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <include
+        android:id="@+id/banner"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        layout="@layout/layout_brand_banner"/>
+
+    <include
+        layout="@layout/layout_dashboard_2"
+        android:id="@+id/data"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+
+<!--    <include-->
+<!--        android:id="@+id/connection"-->
+<!--        android:layout_margin="10dp"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        layout="@layout/card_dashboard_simple"/>-->
+
+<!--    <include-->
+<!--        android:id="@+id/disconnection"-->
+<!--        android:layout_margin="10dp"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        layout="@layout/card_dashboard_details"/>-->
+
+<!--    <include-->
+<!--        android:id="@+id/breathalyzer"-->
+<!--        android:layout_margin="10dp"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        layout="@layout/card_dashboard_alternative"/>-->
+
+<!--    <include-->
+<!--        android:id="@+id/over_speed"-->
+<!--        android:layout_margin="10dp"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        layout="@layout/card_dashboard_alternative"/>-->
+
+</LinearLayout>
